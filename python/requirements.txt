@@ -1,0 +1,2 @@
+SQLAlchemy>=1.1.6
+gittish_core_model_common==1.0.0.dev1
